@@ -9,7 +9,7 @@ import {
 } from 'lucide-react';
 import { useState } from 'react';
 import { useTranslation } from 'react-i18next';
-import DesktopLanguageSwitcher from '../functions/DesktopLanguageSwitcher';
+import DesktopLanguageSwitcher from '../../functions/DesktopLanguageSwitcher';
 
 export default function LandingPage() {
 	const [loginOpen, setLoginOpen] = useState(false);
