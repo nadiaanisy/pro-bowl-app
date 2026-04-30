@@ -1,4 +1,25 @@
 {
-  "welcome": "Welcome",
-  "description": "This is a React app"
+  "TITLE": "Pro Bowl App",
+  "BUTTONS": {
+    "SIGN_IN": "Sign In",
+    "START_TRACKING_NOW": "Start Tracking Now",
+    "GET_STARTED": "Get Started"
+  },
+  "NAVIGATION": {
+    "FEATURES": "Features"
+  },
+  "LANDING_PAGE": {
+    "HEADER_1": "Where Every",
+    "HEADER_2": "Frame",
+    "HEADER_3": "Counts",
+    "DESCRIPTION": "Track your scores, follow league progress, and analyze your performance with precision. Whether you're chasing consistency or aiming for the top, everything you need to win is right here.",
+    "FEATURES_TITLE": "Everything You Need to Bowl Better",
+    "FEATURES_DESCRIPTION": "From casual games to competitive tournaments",
+    "FEATURE_1_TITLE": "Track Progress",
+    "FEATURE_1_DESC": "Monitor your scores, analyze your games, and watch your skills improve over time.",
+    "FEATURE_2_TITLE": "League Play",
+    "FEATURE_2_DESC": "Compete in local and national tournaments. Win prizes and earn recognition.",
+    "CTA_TITLE": "Ready to Roll?",
+    "CTA_DESC": "Join for the ultimate bowling experience."
+  }
 }

@@ -1,4 +1,25 @@
 {
-  "welcome": "Selamat Datang",
-  "description": "Ini adalah aplikasi React"
+  "TITLE": "Pro Bowl App",
+  "BUTTONS": {
+    "SIGN_IN": "Log Masuk",
+    "START_TRACKING_NOW": "Mula Track Sekarang",
+    "GET_STARTED": "Mula Sekarang"
+  },
+  "NAVIGATION": {
+    "FEATURES": "Fungsi"
+  },
+  "LANDING_PAGE": {
+    "HEADER_1": "Setiap",
+    "HEADER_2": "Frame",
+    "HEADER_3": "Menentukan Segalanya",
+    "DESCRIPTION": "Jejaki skor anda, pantau perkembangan liga, dan analisis prestasi dengan lebih tepat. Sama ada anda mengejar konsistensi atau mensasarkan kedudukan teratas, semua yang anda perlukan untuk menang ada di sini.",
+    "FEATURES_TITLE": "Segala Yang Anda Perlukan untuk Memperbaiki Bowling",
+    "FEATURES_DESCRIPTION": "Daripada permainan santai hingga ke kejohanan kompetitif",
+    "FEATURE_1_TITLE": "Jejaki Kemajuan",
+    "FEATURE_1_DESC": "Pantau skor anda, analisis permainan anda, dan saksikan kemahiran anda meningkat dari masa ke masa.",
+    "FEATURE_2_TITLE": "Permainan Liga",
+    "FEATURE_2_DESC": "Bersaing dalam kejohanan tempatan dan kebangsaan. Menangi hadiah dan raih pengiktirafan.",
+    "CTA_TITLE": "Sedia untuk Bermain?",
+    "CTA_DESC": "Sertai untuk pengalaman bowling yang terbaik."
+  }
 }
