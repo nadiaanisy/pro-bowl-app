@@ -3,10 +3,24 @@
   "BUTTONS": {
     "SIGN_IN": "Log Masuk",
     "START_TRACKING_NOW": "Mula Track Sekarang",
-    "GET_STARTED": "Mula Sekarang"
+    "GET_STARTED": "Mula Sekarang",
+    "CREATE_ACCOUNT": "Buat Akaun",
+    "LOADING": "Memuat..."
   },
   "NAVIGATION": {
     "FEATURES": "Fungsi"
+  },
+  "FORMS": {
+    "EMAIL": "Emel",
+    "PASSWORD": "Kata Laluan",
+    "FULL_NAME": "Nama Penuh"
+  },
+  "ERROR": {
+    "NAME_REQUIRED": "Nama diperlukan.",
+    "EMAIL_IN_USE": "Emel sudah digunakan.",
+    "INVALID_EMAIL": "Alamat emel tidak sah.",
+    "WEAK_PASSWORD": "Kata laluan terlalu lemah.",
+    "GENERIC": "Ralat tidak diketahui berlaku. Sila cuba lagi."
   },
   "LANDING_PAGE": {
     "HEADER_1": "Setiap",
@@ -21,5 +35,14 @@
     "FEATURE_2_DESC": "Bersaing dalam kejohanan tempatan dan kebangsaan. Menangi hadiah dan raih pengiktirafan.",
     "CTA_TITLE": "Sedia untuk Bermain?",
     "CTA_DESC": "Sertai untuk pengalaman bowling yang terbaik."
+  },
+  "LOGIN_MODAL": {
+    "TITLE": "Selamat Kembali",
+    "NO_ACCOUNT": "Tiada akaun?",
+    "REGISTER_LINK": "Daftar di sini"
+  },
+  "REGISTER_MODAL": {
+    "TITLE": "Sertai Permainan",
+    "HAVE_ACCOUNT": "Sudah mempunyai akaun?"
   }
 }

@@ -3,10 +3,24 @@
   "BUTTONS": {
     "SIGN_IN": "Sign In",
     "START_TRACKING_NOW": "Start Tracking Now",
-    "GET_STARTED": "Get Started"
+    "GET_STARTED": "Get Started",
+    "CREATE_ACCOUNT": "Create Account",
+    "LOADING": "Loading..."
   },
   "NAVIGATION": {
     "FEATURES": "Features"
+  },
+  "FORMS": {
+    "EMAIL": "Email",
+    "PASSWORD": "Password",
+    "FULL_NAME": "Full Name"
+  },
+  "ERROR": {
+    "NAME_REQUIRED": "Name is required.",
+    "EMAIL_IN_USE": "Email is already in use.",
+    "INVALID_EMAIL": "Invalid email address.",
+    "WEAK_PASSWORD": "Password is too weak.",
+    "GENERIC": "An unknown error occurred. Please try again."
   },
   "LANDING_PAGE": {
     "HEADER_1": "Where Every",
@@ -21,5 +35,14 @@
     "FEATURE_2_DESC": "Compete in local and national tournaments. Win prizes and earn recognition.",
     "CTA_TITLE": "Ready to Roll?",
     "CTA_DESC": "Join for the ultimate bowling experience."
+  },
+  "LOGIN_MODAL": {
+    "TITLE": "Welcome Back",
+    "NO_ACCOUNT": "Don't have an account?",
+    "REGISTER_LINK": "Register here"
+  },
+  "REGISTER_MODAL": {
+    "TITLE": "Join the Game",
+    "HAVE_ACCOUNT": "Already have an account?"
   }
 }
