@@ -11,7 +11,7 @@ export default function DesktopLanguageSwitcher() {
 
   return (
     <div className="flex items-center gap-1">
-      <Globe className="hidden md:block text-white" size={24} />
+      <Globe className="hidden md:block text-white" size={16} />
       <button
         onClick={() => i18n.changeLanguage("en")}
         className={`${baseClass} ${
